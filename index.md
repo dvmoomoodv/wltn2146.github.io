@@ -1,3 +1,10 @@
+<style>
+.aa{margin-left:50px;
+}
+</style>
+
+
+
 <h2>Kevin</h2>
 <h1>PIRE</h1>
 <div>1</div><div>2</div>
@@ -5,7 +12,7 @@
 <br/>
 
 
-<span style="margin:0, 30px,0,0">3</span><span>4</span>
+<span class="aa">3</span><span>4</span>
 
 
 ## Welcome to GitHub Pages
